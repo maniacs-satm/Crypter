@@ -54,6 +54,7 @@ So please check it out as well!
 
 Link to this README: https://git.io/Crypter.info
 
+<br/>
 
 ## Status
 [Crypter v3.0](https://github.com/HR/Crypter/releases/tag/v3.0.0) is a fully
@@ -72,6 +73,7 @@ this up!
 
 If you have any suggestions then please open an issue!
 
+<br/>
 
 ## Screens (some of them)
 <p align="center">
@@ -81,6 +83,7 @@ If you have any suggestions then please open an issue!
   <img src="/.github/Settings_screen.png?raw=true" alt="Settings screen" width="85%">
 </p>
 
+<br/>
 
 ## Crypto
 > One key to derive them all!
@@ -151,6 +154,7 @@ format:
 Crypter#iv#authTag#salt
 ```
 
+<br/>
 
 ## CRYPTO file
 
@@ -276,6 +280,7 @@ Crypter generates a new set of random credentials for deriving the MasterPassKey
 every time the MasterPass is set (at setup) or reset. Using randomness, mitigate
 brute-force attacks which drastically improves security.
 
+<br/>
 
 ## FAQs
 
